@@ -1,2 +1,2 @@
 # CopyBlogs
-Will be pushed soon.
+Instructions to come.
